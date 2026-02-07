@@ -7,7 +7,7 @@
 // \   \   \/     Version : 10.1
 //  \   \         Application : sch2verilog
 //  /   /         Filename : dropfifo.vf
-// /___/   /\     Timestamp : 01/30/2026 17:56:00
+// /___/   /\     Timestamp : 02/06/2026 22:28:07
 // \   \  /  \ 
 //  \___\/\___\ 
 //
@@ -586,7 +586,7 @@ module dropfifo(clk,
                   .d(in_fifo[71:0]), 
                   .q(in_fifo0[71:0]));
    VCC XLXI_16 (.P(XLXN_62));
-   dual_ram_9B XLXI_34 (.addra(waddr[7:0]), 
+   dual_mem_9B XLXI_37 (.addra(waddr[7:0]), 
                         .addrb(raddr[7:0]), 
                         .clka(clk), 
                         .clkb(clk), 
