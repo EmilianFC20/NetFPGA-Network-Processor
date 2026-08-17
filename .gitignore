@@ -1,10 +1,61 @@
+# --- Course material, not mine to publish ---
 Papers/
 Class/
 *.pptx
 *.pdf
 *.docx
-*.csv
-*.jpg
-*.png
 GEMINI.md
 Project.md
+
+# --- Xilinx ISE build artifacts ---
+*.ngm
+*.ngd
+*.ngc
+*.ncd
+*.ngr
+*.pcf
+*.bld
+*.bgn
+*.drc
+*.ptwx
+*.twx
+*.xpi
+*.xrpt
+*.xbcd
+*.xwv
+*.xwv_bak
+*.unroutes
+*.stx
+*.cmd_log
+*.lso
+*.restore
+*.ntrc_log
+*.schlog
+*.vf
+*.jhd
+
+# ISE working directories
+_xmsgs/
+_ngo/
+xst/
+isim/
+iseconfig/
+xlnx_auto_*/
+
+# --- Compiled / binary junk ---
+*.exe
+*.dll
+*.so
+*.o
+*.obj
+*.bin
+*.didat
+*.sdb
+*.srp
+
+# --- Editor / OS ---
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
