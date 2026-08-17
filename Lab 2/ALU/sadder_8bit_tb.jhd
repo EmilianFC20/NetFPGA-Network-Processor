@@ -1,3 +1,0 @@
-MODULE sadder_8bit_tb
-SUBMODULE sadder_8bit
-INSTANCE UUT

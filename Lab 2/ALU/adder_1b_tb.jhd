@@ -1,3 +1,0 @@
-MODULE adder_1b_tb
-SUBMODULE adder_1b
-INSTANCE UUT

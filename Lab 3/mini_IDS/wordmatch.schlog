@@ -1,3 +1,0 @@
-select figure at 875 1292 7 -branches -sn=1
-select figure at 873 1290 7 -branches -sn=1
-update symbols wordmatch

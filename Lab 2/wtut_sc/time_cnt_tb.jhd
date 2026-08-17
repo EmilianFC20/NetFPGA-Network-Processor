@@ -1,3 +1,0 @@
-MODULE time_cnt_tb
-SUBMODULE time_cnt
-INSTANCE UUT

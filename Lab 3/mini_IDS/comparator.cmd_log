@@ -1,3 +1,0 @@
-sch2verilog -intstyle ise -family spartan3a   -w "C:/Documents and Settings/student/Desktop/mini_IDS/comparator.sch" comparator.vf
-sch2verilog -intstyle ise -family qvirtex2p   -w "C:/Documents and Settings/student/Desktop/mini_IDS/comparator.sch" comparator.vf
-sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/Desktop/mini_IDS/comparator.sch" comparator.vf

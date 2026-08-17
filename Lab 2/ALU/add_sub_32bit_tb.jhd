@@ -1,3 +1,0 @@
-MODULE add_sub_32bit_tb
-SUBMODULE add_sub_32bit
-INSTANCE UUT

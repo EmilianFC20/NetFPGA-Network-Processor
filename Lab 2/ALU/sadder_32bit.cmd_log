@@ -1,1 +1,0 @@
-sch2verilog -intstyle ise -family spartan3a   -w "C:/Documents and Settings/student/Desktop/ALU/sadder_32bit.sch" sadder_32bit.vf

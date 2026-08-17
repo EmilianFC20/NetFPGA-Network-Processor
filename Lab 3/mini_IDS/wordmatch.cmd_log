@@ -1,4 +1,0 @@
-sch2verilog -intstyle ise -family spartan3a   -w "C:/Documents and Settings/student/Desktop/mini_IDS/wordmatch.sch" wordmatch.vf
-sch2verilog -intstyle ise -family spartan3a   -w "C:/Documents and Settings/student/Desktop/mini_IDS/wordmatch.sch" wordmatch.vf
-sch2verilog -intstyle ise -family qvirtex2p   -w "C:/Documents and Settings/student/Desktop/mini_IDS/wordmatch.sch" wordmatch.vf
-sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/Desktop/mini_IDS/wordmatch.sch" wordmatch.vf

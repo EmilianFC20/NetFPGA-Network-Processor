@@ -1,3 +1,0 @@
-MODULE shifter_32bit_tb
-SUBMODULE shifter_32bit
-INSTANCE UUT

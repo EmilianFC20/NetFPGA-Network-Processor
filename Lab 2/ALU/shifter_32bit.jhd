@@ -1,9 +1,0 @@
-MODULE shifter_32bit
-	SUBMODULE shifter_8bit
-		INSTANCE XLXI_12
-	SUBMODULE shifter_8bit
-		INSTANCE XLXI_18
-	SUBMODULE shifter_8bit
-		INSTANCE XLXI_21
-	SUBMODULE shifter_8bit
-		INSTANCE XLXI_22

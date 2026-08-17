@@ -1,3 +1,0 @@
-MODULE ids_tb
-SUBMODULE ids_sim
-INSTANCE UUT

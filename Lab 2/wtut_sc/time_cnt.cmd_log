@@ -1,1 +1,0 @@
-sch2verilog -intstyle ise -family spartan3a   -w "C:/Documents and Settings/All Users/Desktop/wtut_sc/time_cnt.sch" time_cnt.vf

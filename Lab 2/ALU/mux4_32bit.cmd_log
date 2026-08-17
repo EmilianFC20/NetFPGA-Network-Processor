@@ -1,1 +1,0 @@
-sch2verilog -intstyle ise -family spartan3a   -w "C:/Documents and Settings/student/Desktop/ALU/mux4_32bit.sch" mux4_32bit.vf
